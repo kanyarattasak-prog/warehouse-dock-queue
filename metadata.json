@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจองคิวรถหน้าโกดัง",
+  "description": "ระบบจองคิวรถหน้าโกดังสำหรับคนขับ เจ้าหน้าที่ และผู้ดูแลระบบ พร้อมการจัดการโดคแบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
